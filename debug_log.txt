@@ -1,0 +1,269 @@
+Array
+(
+    [HTTP_HOST] => localhost
+    [HTTP_CONNECTION] => keep-alive
+    [HTTP_SEC_CH_UA] => "Chromium";v="134", "Not:A-Brand";v="24", "Google Chrome";v="134"
+    [HTTP_SEC_CH_UA_MOBILE] => ?0
+    [HTTP_SEC_CH_UA_PLATFORM] => "Windows"
+    [HTTP_UPGRADE_INSECURE_REQUESTS] => 1
+    [HTTP_USER_AGENT] => Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+    [HTTP_ACCEPT] => text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+    [HTTP_SEC_FETCH_SITE] => same-origin
+    [HTTP_SEC_FETCH_MODE] => navigate
+    [HTTP_SEC_FETCH_USER] => ?1
+    [HTTP_SEC_FETCH_DEST] => document
+    [HTTP_REFERER] => http://localhost/Hms/admin/admin_dashboard.php
+    [HTTP_ACCEPT_ENCODING] => gzip, deflate, br, zstd
+    [HTTP_ACCEPT_LANGUAGE] => en,fr;q=0.9,af;q=0.8,ak;q=0.7,sq;q=0.6,de;q=0.5,de-DE;q=0.4,de-AT;q=0.3,de-LI;q=0.2,de-CH;q=0.1,am;q=0.1,en-ZA;q=0.1,en-AU;q=0.1,eu;q=0.1,az;q=0.1,bm;q=0.1,ay;q=0.1,ast;q=0.1,as;q=0.1,sw;q=0.1,sv;q=0.1,su;q=0.1,tk;q=0.1,tr;q=0.1,tw;q=0.1,uk;q=0.1,vi;q=0.1,wo;q=0.1,wa;q=0.1,th;q=0.1,te;q=0.1,cs;q=0.1,tt;q=0.1,ta;q=0.1,st;q=0.1,nso;q=0.1,ru;q=0.1,mo;q=0.1,sm;q=0.1,ar;q=0.1
+    [HTTP_COOKIE] => last_username=pascal; hms_prefs=%7B%22language%22%3A%22fr%22%2C%22theme%22%3A%22light%22%2C%22last_visit%22%3A%222025-04-06%2018%3A24%3A12%22%7D; PHPSESSID=35ifqb1jmr0art1bo6vgdvtmm1
+    [PATH] => C:\Program Files\Python39\Scripts\;C:\Program Files\Python39\;C:\Program Files\Microsoft\jdk-11.0.16.101-hotspot\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\Microsoft SQL Server\150\Tools\Binn\;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\170\Tools\Binn\;C:\Program Files\dotnet\;C:\Program Files\MATLAB\MATLAB Runtime\R2023b\runtime\win64;G:\utils\R2023b\runtime\win64;C:\Program Files\MATLAB\R2023b\runtime\win64;C:\Program Files\MATLAB\R2023b\bin;C:\Program Files\Git\cmd;C:\wamp64\bin\php\php7.4.33;C:\composer;C:\Program Files\nodejs\;C:\WINDOWS\system32\config\systemprofile\AppData\Local\Microsoft\WindowsApps
+    [SystemRoot] => C:\WINDOWS
+    [COMSPEC] => C:\WINDOWS\system32\cmd.exe
+    [PATHEXT] => .COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC;.PY;.PYW
+    [WINDIR] => C:\WINDOWS
+    [SERVER_SIGNATURE] => <address>Apache/2.4.62 (Win64) PHP/8.3.14 mod_fcgid/2.3.10-dev Server at localhost Port 80</address>
+
+    [SERVER_SOFTWARE] => Apache/2.4.62 (Win64) PHP/8.3.14 mod_fcgid/2.3.10-dev
+    [SERVER_NAME] => localhost
+    [SERVER_ADDR] => ::1
+    [SERVER_PORT] => 80
+    [REMOTE_ADDR] => ::1
+    [DOCUMENT_ROOT] => C:/wamp64/www
+    [REQUEST_SCHEME] => http
+    [CONTEXT_PREFIX] => 
+    [CONTEXT_DOCUMENT_ROOT] => C:/wamp64/www
+    [SERVER_ADMIN] => wampserver@wampserver.invalid
+    [SCRIPT_FILENAME] => C:/wamp64/www/Hms/admin/manage_reports.php
+    [REMOTE_PORT] => 58985
+    [GATEWAY_INTERFACE] => CGI/1.1
+    [SERVER_PROTOCOL] => HTTP/1.1
+    [REQUEST_METHOD] => GET
+    [QUERY_STRING] => force=1743964696
+    [REQUEST_URI] => /Hms/admin/manage_reports.php?force=1743964696
+    [SCRIPT_NAME] => /Hms/admin/manage_reports.php
+    [PHP_SELF] => /Hms/admin/manage_reports.php
+    [REQUEST_TIME_FLOAT] => 1743964698.2313
+    [REQUEST_TIME] => 1743964698
+)
+Array
+(
+    [HTTP_HOST] => localhost
+    [HTTP_CONNECTION] => keep-alive
+    [HTTP_USER_AGENT] => Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+    [HTTP_ACCEPT] => */*
+    [HTTP_SEC_FETCH_SITE] => none
+    [HTTP_SEC_FETCH_MODE] => cors
+    [HTTP_SEC_FETCH_DEST] => empty
+    [HTTP_SEC_FETCH_STORAGE_ACCESS] => active
+    [HTTP_ACCEPT_ENCODING] => gzip, deflate, br, zstd
+    [HTTP_ACCEPT_LANGUAGE] => en,fr;q=0.9,af;q=0.8,ak;q=0.7,sq;q=0.6,de;q=0.5,de-DE;q=0.4,de-AT;q=0.3,de-LI;q=0.2,de-CH;q=0.1,am;q=0.1,en-ZA;q=0.1,en-AU;q=0.1,eu;q=0.1,az;q=0.1,bm;q=0.1,ay;q=0.1,ast;q=0.1,as;q=0.1,sw;q=0.1,sv;q=0.1,su;q=0.1,tk;q=0.1,tr;q=0.1,tw;q=0.1,uk;q=0.1,vi;q=0.1,wo;q=0.1,wa;q=0.1,th;q=0.1,te;q=0.1,cs;q=0.1,tt;q=0.1,ta;q=0.1,st;q=0.1,nso;q=0.1,ru;q=0.1,mo;q=0.1,sm;q=0.1,ar;q=0.1
+    [HTTP_COOKIE] => last_username=pascal; hms_prefs=%7B%22language%22%3A%22fr%22%2C%22theme%22%3A%22light%22%2C%22last_visit%22%3A%222025-04-06%2018%3A24%3A12%22%7D; PHPSESSID=35ifqb1jmr0art1bo6vgdvtmm1; HMS_SESS=jj9s8qp17gppo279ukfr8h52i5
+    [PATH] => C:\Program Files\Python39\Scripts\;C:\Program Files\Python39\;C:\Program Files\Microsoft\jdk-11.0.16.101-hotspot\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\Microsoft SQL Server\150\Tools\Binn\;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\170\Tools\Binn\;C:\Program Files\dotnet\;C:\Program Files\MATLAB\MATLAB Runtime\R2023b\runtime\win64;G:\utils\R2023b\runtime\win64;C:\Program Files\MATLAB\R2023b\runtime\win64;C:\Program Files\MATLAB\R2023b\bin;C:\Program Files\Git\cmd;C:\wamp64\bin\php\php7.4.33;C:\composer;C:\Program Files\nodejs\;C:\WINDOWS\system32\config\systemprofile\AppData\Local\Microsoft\WindowsApps
+    [SystemRoot] => C:\WINDOWS
+    [COMSPEC] => C:\WINDOWS\system32\cmd.exe
+    [PATHEXT] => .COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC;.PY;.PYW
+    [WINDIR] => C:\WINDOWS
+    [SERVER_SIGNATURE] => <address>Apache/2.4.62 (Win64) PHP/8.3.14 mod_fcgid/2.3.10-dev Server at localhost Port 80</address>
+
+    [SERVER_SOFTWARE] => Apache/2.4.62 (Win64) PHP/8.3.14 mod_fcgid/2.3.10-dev
+    [SERVER_NAME] => localhost
+    [SERVER_ADDR] => ::1
+    [SERVER_PORT] => 80
+    [REMOTE_ADDR] => ::1
+    [DOCUMENT_ROOT] => C:/wamp64/www
+    [REQUEST_SCHEME] => http
+    [CONTEXT_PREFIX] => 
+    [CONTEXT_DOCUMENT_ROOT] => C:/wamp64/www
+    [SERVER_ADMIN] => wampserver@wampserver.invalid
+    [SCRIPT_FILENAME] => C:/wamp64/www/Hms/admin/manage_reports.php
+    [REMOTE_PORT] => 58988
+    [GATEWAY_INTERFACE] => CGI/1.1
+    [SERVER_PROTOCOL] => HTTP/1.1
+    [REQUEST_METHOD] => GET
+    [QUERY_STRING] => force=1743964696
+    [REQUEST_URI] => /Hms/admin/manage_reports.php?force=1743964696
+    [SCRIPT_NAME] => /Hms/admin/manage_reports.php
+    [PHP_SELF] => /Hms/admin/manage_reports.php
+    [REQUEST_TIME_FLOAT] => 1743964698.4129
+    [REQUEST_TIME] => 1743964698
+)
+Array
+(
+    [HTTP_HOST] => localhost
+    [HTTP_CONNECTION] => keep-alive
+    [HTTP_CACHE_CONTROL] => max-age=0
+    [HTTP_SEC_CH_UA] => "Chromium";v="134", "Not:A-Brand";v="24", "Google Chrome";v="134"
+    [HTTP_SEC_CH_UA_MOBILE] => ?0
+    [HTTP_SEC_CH_UA_PLATFORM] => "Windows"
+    [HTTP_UPGRADE_INSECURE_REQUESTS] => 1
+    [HTTP_USER_AGENT] => Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+    [HTTP_ACCEPT] => text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+    [HTTP_SEC_FETCH_SITE] => same-origin
+    [HTTP_SEC_FETCH_MODE] => navigate
+    [HTTP_SEC_FETCH_USER] => ?1
+    [HTTP_SEC_FETCH_DEST] => document
+    [HTTP_REFERER] => http://localhost/Hms/admin/admin_dashboard.php
+    [HTTP_ACCEPT_ENCODING] => gzip, deflate, br, zstd
+    [HTTP_ACCEPT_LANGUAGE] => en,fr;q=0.9,af;q=0.8,ak;q=0.7,sq;q=0.6,de;q=0.5,de-DE;q=0.4,de-AT;q=0.3,de-LI;q=0.2,de-CH;q=0.1,am;q=0.1,en-ZA;q=0.1,en-AU;q=0.1,eu;q=0.1,az;q=0.1,bm;q=0.1,ay;q=0.1,ast;q=0.1,as;q=0.1,sw;q=0.1,sv;q=0.1,su;q=0.1,tk;q=0.1,tr;q=0.1,tw;q=0.1,uk;q=0.1,vi;q=0.1,wo;q=0.1,wa;q=0.1,th;q=0.1,te;q=0.1,cs;q=0.1,tt;q=0.1,ta;q=0.1,st;q=0.1,nso;q=0.1,ru;q=0.1,mo;q=0.1,sm;q=0.1,ar;q=0.1
+    [HTTP_COOKIE] => last_username=pascal; hms_prefs=%7B%22language%22%3A%22fr%22%2C%22theme%22%3A%22light%22%2C%22last_visit%22%3A%222025-04-06%2018%3A24%3A12%22%7D; PHPSESSID=35ifqb1jmr0art1bo6vgdvtmm1; HMS_SESS=jj9s8qp17gppo279ukfr8h52i5
+    [PATH] => C:\Program Files\Python39\Scripts\;C:\Program Files\Python39\;C:\Program Files\Microsoft\jdk-11.0.16.101-hotspot\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\Microsoft SQL Server\150\Tools\Binn\;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\170\Tools\Binn\;C:\Program Files\dotnet\;C:\Program Files\MATLAB\MATLAB Runtime\R2023b\runtime\win64;G:\utils\R2023b\runtime\win64;C:\Program Files\MATLAB\R2023b\runtime\win64;C:\Program Files\MATLAB\R2023b\bin;C:\Program Files\Git\cmd;C:\wamp64\bin\php\php7.4.33;C:\composer;C:\Program Files\nodejs\;C:\WINDOWS\system32\config\systemprofile\AppData\Local\Microsoft\WindowsApps
+    [SystemRoot] => C:\WINDOWS
+    [COMSPEC] => C:\WINDOWS\system32\cmd.exe
+    [PATHEXT] => .COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC;.PY;.PYW
+    [WINDIR] => C:\WINDOWS
+    [SERVER_SIGNATURE] => <address>Apache/2.4.62 (Win64) PHP/8.3.14 mod_fcgid/2.3.10-dev Server at localhost Port 80</address>
+
+    [SERVER_SOFTWARE] => Apache/2.4.62 (Win64) PHP/8.3.14 mod_fcgid/2.3.10-dev
+    [SERVER_NAME] => localhost
+    [SERVER_ADDR] => ::1
+    [SERVER_PORT] => 80
+    [REMOTE_ADDR] => ::1
+    [DOCUMENT_ROOT] => C:/wamp64/www
+    [REQUEST_SCHEME] => http
+    [CONTEXT_PREFIX] => 
+    [CONTEXT_DOCUMENT_ROOT] => C:/wamp64/www
+    [SERVER_ADMIN] => wampserver@wampserver.invalid
+    [SCRIPT_FILENAME] => C:/wamp64/www/Hms/admin/manage_reports.php
+    [REMOTE_PORT] => 63139
+    [GATEWAY_INTERFACE] => CGI/1.1
+    [SERVER_PROTOCOL] => HTTP/1.1
+    [REQUEST_METHOD] => GET
+    [QUERY_STRING] => force=1743964696
+    [REQUEST_URI] => /Hms/admin/manage_reports.php?force=1743964696
+    [SCRIPT_NAME] => /Hms/admin/manage_reports.php
+    [PHP_SELF] => /Hms/admin/manage_reports.php
+    [REQUEST_TIME_FLOAT] => 1743964953.7077
+    [REQUEST_TIME] => 1743964953
+)
+Array
+(
+    [HTTP_HOST] => localhost
+    [HTTP_CONNECTION] => keep-alive
+    [HTTP_USER_AGENT] => Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+    [HTTP_ACCEPT] => */*
+    [HTTP_SEC_FETCH_SITE] => none
+    [HTTP_SEC_FETCH_MODE] => cors
+    [HTTP_SEC_FETCH_DEST] => empty
+    [HTTP_SEC_FETCH_STORAGE_ACCESS] => active
+    [HTTP_ACCEPT_ENCODING] => gzip, deflate, br, zstd
+    [HTTP_ACCEPT_LANGUAGE] => en,fr;q=0.9,af;q=0.8,ak;q=0.7,sq;q=0.6,de;q=0.5,de-DE;q=0.4,de-AT;q=0.3,de-LI;q=0.2,de-CH;q=0.1,am;q=0.1,en-ZA;q=0.1,en-AU;q=0.1,eu;q=0.1,az;q=0.1,bm;q=0.1,ay;q=0.1,ast;q=0.1,as;q=0.1,sw;q=0.1,sv;q=0.1,su;q=0.1,tk;q=0.1,tr;q=0.1,tw;q=0.1,uk;q=0.1,vi;q=0.1,wo;q=0.1,wa;q=0.1,th;q=0.1,te;q=0.1,cs;q=0.1,tt;q=0.1,ta;q=0.1,st;q=0.1,nso;q=0.1,ru;q=0.1,mo;q=0.1,sm;q=0.1,ar;q=0.1
+    [HTTP_COOKIE] => last_username=pascal; hms_prefs=%7B%22language%22%3A%22fr%22%2C%22theme%22%3A%22light%22%2C%22last_visit%22%3A%222025-04-06%2018%3A24%3A12%22%7D; PHPSESSID=35ifqb1jmr0art1bo6vgdvtmm1; HMS_SESS=jj9s8qp17gppo279ukfr8h52i5
+    [PATH] => C:\Program Files\Python39\Scripts\;C:\Program Files\Python39\;C:\Program Files\Microsoft\jdk-11.0.16.101-hotspot\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\Microsoft SQL Server\150\Tools\Binn\;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\170\Tools\Binn\;C:\Program Files\dotnet\;C:\Program Files\MATLAB\MATLAB Runtime\R2023b\runtime\win64;G:\utils\R2023b\runtime\win64;C:\Program Files\MATLAB\R2023b\runtime\win64;C:\Program Files\MATLAB\R2023b\bin;C:\Program Files\Git\cmd;C:\wamp64\bin\php\php7.4.33;C:\composer;C:\Program Files\nodejs\;C:\WINDOWS\system32\config\systemprofile\AppData\Local\Microsoft\WindowsApps
+    [SystemRoot] => C:\WINDOWS
+    [COMSPEC] => C:\WINDOWS\system32\cmd.exe
+    [PATHEXT] => .COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC;.PY;.PYW
+    [WINDIR] => C:\WINDOWS
+    [SERVER_SIGNATURE] => <address>Apache/2.4.62 (Win64) PHP/8.3.14 mod_fcgid/2.3.10-dev Server at localhost Port 80</address>
+
+    [SERVER_SOFTWARE] => Apache/2.4.62 (Win64) PHP/8.3.14 mod_fcgid/2.3.10-dev
+    [SERVER_NAME] => localhost
+    [SERVER_ADDR] => ::1
+    [SERVER_PORT] => 80
+    [REMOTE_ADDR] => ::1
+    [DOCUMENT_ROOT] => C:/wamp64/www
+    [REQUEST_SCHEME] => http
+    [CONTEXT_PREFIX] => 
+    [CONTEXT_DOCUMENT_ROOT] => C:/wamp64/www
+    [SERVER_ADMIN] => wampserver@wampserver.invalid
+    [SCRIPT_FILENAME] => C:/wamp64/www/Hms/admin/manage_reports.php
+    [REMOTE_PORT] => 63142
+    [GATEWAY_INTERFACE] => CGI/1.1
+    [SERVER_PROTOCOL] => HTTP/1.1
+    [REQUEST_METHOD] => GET
+    [QUERY_STRING] => force=1743964696
+    [REQUEST_URI] => /Hms/admin/manage_reports.php?force=1743964696
+    [SCRIPT_NAME] => /Hms/admin/manage_reports.php
+    [PHP_SELF] => /Hms/admin/manage_reports.php
+    [REQUEST_TIME_FLOAT] => 1743964953.9774
+    [REQUEST_TIME] => 1743964953
+)
+Array
+(
+    [HTTP_HOST] => localhost
+    [HTTP_CONNECTION] => keep-alive
+    [HTTP_CACHE_CONTROL] => max-age=0
+    [HTTP_SEC_CH_UA] => "Chromium";v="134", "Not:A-Brand";v="24", "Google Chrome";v="134"
+    [HTTP_SEC_CH_UA_MOBILE] => ?0
+    [HTTP_SEC_CH_UA_PLATFORM] => "Windows"
+    [HTTP_UPGRADE_INSECURE_REQUESTS] => 1
+    [HTTP_USER_AGENT] => Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+    [HTTP_ACCEPT] => text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+    [HTTP_SEC_FETCH_SITE] => same-origin
+    [HTTP_SEC_FETCH_MODE] => navigate
+    [HTTP_SEC_FETCH_USER] => ?1
+    [HTTP_SEC_FETCH_DEST] => document
+    [HTTP_REFERER] => http://localhost/Hms/admin/admin_dashboard.php
+    [HTTP_ACCEPT_ENCODING] => gzip, deflate, br, zstd
+    [HTTP_ACCEPT_LANGUAGE] => en,fr;q=0.9,af;q=0.8,ak;q=0.7,sq;q=0.6,de;q=0.5,de-DE;q=0.4,de-AT;q=0.3,de-LI;q=0.2,de-CH;q=0.1,am;q=0.1,en-ZA;q=0.1,en-AU;q=0.1,eu;q=0.1,az;q=0.1,bm;q=0.1,ay;q=0.1,ast;q=0.1,as;q=0.1,sw;q=0.1,sv;q=0.1,su;q=0.1,tk;q=0.1,tr;q=0.1,tw;q=0.1,uk;q=0.1,vi;q=0.1,wo;q=0.1,wa;q=0.1,th;q=0.1,te;q=0.1,cs;q=0.1,tt;q=0.1,ta;q=0.1,st;q=0.1,nso;q=0.1,ru;q=0.1,mo;q=0.1,sm;q=0.1,ar;q=0.1
+    [HTTP_COOKIE] => last_username=pascal; hms_prefs=%7B%22language%22%3A%22fr%22%2C%22theme%22%3A%22light%22%2C%22last_visit%22%3A%222025-04-06%2018%3A24%3A12%22%7D; PHPSESSID=35ifqb1jmr0art1bo6vgdvtmm1; HMS_SESS=jj9s8qp17gppo279ukfr8h52i5
+    [PATH] => C:\Program Files\Python39\Scripts\;C:\Program Files\Python39\;C:\Program Files\Microsoft\jdk-11.0.16.101-hotspot\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\Microsoft SQL Server\150\Tools\Binn\;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\170\Tools\Binn\;C:\Program Files\dotnet\;C:\Program Files\MATLAB\MATLAB Runtime\R2023b\runtime\win64;G:\utils\R2023b\runtime\win64;C:\Program Files\MATLAB\R2023b\runtime\win64;C:\Program Files\MATLAB\R2023b\bin;C:\Program Files\Git\cmd;C:\wamp64\bin\php\php7.4.33;C:\composer;C:\Program Files\nodejs\;C:\WINDOWS\system32\config\systemprofile\AppData\Local\Microsoft\WindowsApps
+    [SystemRoot] => C:\WINDOWS
+    [COMSPEC] => C:\WINDOWS\system32\cmd.exe
+    [PATHEXT] => .COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC;.PY;.PYW
+    [WINDIR] => C:\WINDOWS
+    [SERVER_SIGNATURE] => <address>Apache/2.4.62 (Win64) PHP/8.3.14 mod_fcgid/2.3.10-dev Server at localhost Port 80</address>
+
+    [SERVER_SOFTWARE] => Apache/2.4.62 (Win64) PHP/8.3.14 mod_fcgid/2.3.10-dev
+    [SERVER_NAME] => localhost
+    [SERVER_ADDR] => ::1
+    [SERVER_PORT] => 80
+    [REMOTE_ADDR] => ::1
+    [DOCUMENT_ROOT] => C:/wamp64/www
+    [REQUEST_SCHEME] => http
+    [CONTEXT_PREFIX] => 
+    [CONTEXT_DOCUMENT_ROOT] => C:/wamp64/www
+    [SERVER_ADMIN] => wampserver@wampserver.invalid
+    [SCRIPT_FILENAME] => C:/wamp64/www/Hms/admin/manage_reports.php
+    [REMOTE_PORT] => 63140
+    [GATEWAY_INTERFACE] => CGI/1.1
+    [SERVER_PROTOCOL] => HTTP/1.1
+    [REQUEST_METHOD] => GET
+    [QUERY_STRING] => force=1743964696
+    [REQUEST_URI] => /Hms/admin/manage_reports.php?force=1743964696
+    [SCRIPT_NAME] => /Hms/admin/manage_reports.php
+    [PHP_SELF] => /Hms/admin/manage_reports.php
+    [REQUEST_TIME_FLOAT] => 1743965001.4499
+    [REQUEST_TIME] => 1743965001
+)
+Array
+(
+    [HTTP_HOST] => localhost
+    [HTTP_CONNECTION] => keep-alive
+    [HTTP_USER_AGENT] => Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+    [HTTP_ACCEPT] => */*
+    [HTTP_SEC_FETCH_SITE] => none
+    [HTTP_SEC_FETCH_MODE] => cors
+    [HTTP_SEC_FETCH_DEST] => empty
+    [HTTP_SEC_FETCH_STORAGE_ACCESS] => active
+    [HTTP_ACCEPT_ENCODING] => gzip, deflate, br, zstd
+    [HTTP_ACCEPT_LANGUAGE] => en,fr;q=0.9,af;q=0.8,ak;q=0.7,sq;q=0.6,de;q=0.5,de-DE;q=0.4,de-AT;q=0.3,de-LI;q=0.2,de-CH;q=0.1,am;q=0.1,en-ZA;q=0.1,en-AU;q=0.1,eu;q=0.1,az;q=0.1,bm;q=0.1,ay;q=0.1,ast;q=0.1,as;q=0.1,sw;q=0.1,sv;q=0.1,su;q=0.1,tk;q=0.1,tr;q=0.1,tw;q=0.1,uk;q=0.1,vi;q=0.1,wo;q=0.1,wa;q=0.1,th;q=0.1,te;q=0.1,cs;q=0.1,tt;q=0.1,ta;q=0.1,st;q=0.1,nso;q=0.1,ru;q=0.1,mo;q=0.1,sm;q=0.1,ar;q=0.1
+    [HTTP_COOKIE] => last_username=pascal; hms_prefs=%7B%22language%22%3A%22fr%22%2C%22theme%22%3A%22light%22%2C%22last_visit%22%3A%222025-04-06%2018%3A24%3A12%22%7D; PHPSESSID=35ifqb1jmr0art1bo6vgdvtmm1; HMS_SESS=jj9s8qp17gppo279ukfr8h52i5
+    [PATH] => C:\Program Files\Python39\Scripts\;C:\Program Files\Python39\;C:\Program Files\Microsoft\jdk-11.0.16.101-hotspot\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\Microsoft SQL Server\150\Tools\Binn\;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\170\Tools\Binn\;C:\Program Files\dotnet\;C:\Program Files\MATLAB\MATLAB Runtime\R2023b\runtime\win64;G:\utils\R2023b\runtime\win64;C:\Program Files\MATLAB\R2023b\runtime\win64;C:\Program Files\MATLAB\R2023b\bin;C:\Program Files\Git\cmd;C:\wamp64\bin\php\php7.4.33;C:\composer;C:\Program Files\nodejs\;C:\WINDOWS\system32\config\systemprofile\AppData\Local\Microsoft\WindowsApps
+    [SystemRoot] => C:\WINDOWS
+    [COMSPEC] => C:\WINDOWS\system32\cmd.exe
+    [PATHEXT] => .COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC;.PY;.PYW
+    [WINDIR] => C:\WINDOWS
+    [SERVER_SIGNATURE] => <address>Apache/2.4.62 (Win64) PHP/8.3.14 mod_fcgid/2.3.10-dev Server at localhost Port 80</address>
+
+    [SERVER_SOFTWARE] => Apache/2.4.62 (Win64) PHP/8.3.14 mod_fcgid/2.3.10-dev
+    [SERVER_NAME] => localhost
+    [SERVER_ADDR] => ::1
+    [SERVER_PORT] => 80
+    [REMOTE_ADDR] => ::1
+    [DOCUMENT_ROOT] => C:/wamp64/www
+    [REQUEST_SCHEME] => http
+    [CONTEXT_PREFIX] => 
+    [CONTEXT_DOCUMENT_ROOT] => C:/wamp64/www
+    [SERVER_ADMIN] => wampserver@wampserver.invalid
+    [SCRIPT_FILENAME] => C:/wamp64/www/Hms/admin/manage_reports.php
+    [REMOTE_PORT] => 63144
+    [GATEWAY_INTERFACE] => CGI/1.1
+    [SERVER_PROTOCOL] => HTTP/1.1
+    [REQUEST_METHOD] => GET
+    [QUERY_STRING] => force=1743964696
+    [REQUEST_URI] => /Hms/admin/manage_reports.php?force=1743964696
+    [SCRIPT_NAME] => /Hms/admin/manage_reports.php
+    [PHP_SELF] => /Hms/admin/manage_reports.php
+    [REQUEST_TIME_FLOAT] => 1743965001.5489
+    [REQUEST_TIME] => 1743965001
+)
