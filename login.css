@@ -1,0 +1,236 @@
+/* Style général amélioré pour login.php */
+:root {
+  --primary-color: #2c3e50;
+  --secondary-color: #3498db;
+  --success-color: #28a745;
+  --danger-color: #dc3545;
+  --light-gray: #f8f9fa;
+  --border-radius: 8px;
+  --box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+  --transition: all 0.3s ease;
+}
+
+body {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  background: url('/HMS/img/medical-bg.jpg') no-repeat center center fixed;
+  background-size: cover;
+  color: #333;
+  line-height: 1.6;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  padding: 20px;
+  position: relative;
+}
+
+body::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background: rgba(255, 255, 255, 0.85);
+  z-index: -1;
+}
+
+/* Conteneur principal */
+.login-container {
+  width: 100%;
+  max-width: 400px;
+  background-color: white;
+  border-radius: var(--border-radius);
+  box-shadow: var(--box-shadow);
+  overflow: hidden;
+  transition: var(--transition);
+  animation: fadeIn 0.5s ease-out;
+}
+
+/* En-tête */
+.login-header {
+  background-color: var(--primary-color);
+  color: white;
+  padding: 25px;
+  text-align: center;
+  position: relative;
+}
+
+.login-header h1 {
+  font-size: 1.8rem;
+  margin-bottom: 5px;
+}
+
+.login-header p {
+  opacity: 0.9;
+  font-size: 0.9rem;
+}
+
+.hospital-logo {
+  height: 60px;
+  margin-bottom: 15px;
+}
+
+/* Formulaire */
+#login-form {
+  padding: 30px;
+}
+
+.form-group {
+  margin-bottom: 20px;
+  position: relative;
+}
+
+.form-group label {
+  display: block;
+  margin-bottom: 8px;
+  font-weight: 600;
+  color: var(--primary-color);
+}
+
+.form-control {
+  width: 100%;
+  padding: 12px 15px;
+  border: 1px solid #ddd;
+  border-radius: var(--border-radius);
+  font-size: 1rem;
+  transition: var(--transition);
+}
+
+.form-control:focus {
+  outline: none;
+  border-color: var(--secondary-color);
+  box-shadow: 0 0 0 3px rgba(52, 152, 219, 0.2);
+}
+
+/* Bouton de connexion */
+.btn-login {
+  width: 100%;
+  padding: 12px;
+  background-color: var(--primary-color);
+  color: white;
+  border: none;
+  border-radius: var(--border-radius);
+  font-size: 1rem;
+  font-weight: 600;
+  cursor: pointer;
+  transition: var(--transition);
+  text-transform: uppercase;
+  letter-spacing: 1px;
+}
+
+.btn-login:hover {
+  background-color: #1a252f;
+  transform: translateY(-2px);
+}
+
+/* Lien mot de passe oublié */
+.forgot-password {
+  display: block;
+  text-align: center;
+  margin-top: 15px;
+  color: #666;
+  font-size: 0.9rem;
+}
+
+.forgot-password a {
+  color: var(--secondary-color);
+  text-decoration: none;
+  transition: var(--transition);
+}
+
+.forgot-password a:hover {
+  text-decoration: underline;
+}
+
+/* Messages d'erreur/succès */
+.alert {
+  padding: 12px 15px;
+  border-radius: var(--border-radius);
+  margin-bottom: 20px;
+  font-size: 0.9rem;
+  position: relative;
+  padding-left: 20px;
+}
+
+.alert-success {
+  color: var(--success-color);
+  background-color: rgba(40, 167, 69, 0.1);
+  border-left: 4px solid var(--success-color);
+}
+
+.alert-danger {
+  color: var(--danger-color);
+  background-color: rgba(220, 53, 69, 0.1);
+  border-left: 4px solid var(--danger-color);
+}
+
+.btn-close {
+  position: absolute;
+  right: 15px;
+  top: 50%;
+  transform: translateY(-50%);
+  background: none;
+  border: none;
+  font-size: 1rem;
+  cursor: pointer;
+  opacity: 0.7;
+  transition: var(--transition);
+}
+
+.btn-close:hover {
+  opacity: 1;
+}
+
+/* Icônes dans les champs */
+.input-icon {
+  position: relative;
+}
+
+.input-icon i {
+  position: absolute;
+  left: 15px;
+  top: 50%;
+  transform: translateY(-50%);
+  color: #777;
+}
+
+.input-icon .form-control {
+  padding-left: 40px;
+}
+
+/* Animation */
+@keyframes fadeIn {
+  from { opacity: 0; transform: translateY(20px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+
+/* Responsive */
+@media (max-width: 480px) {
+  body {
+    padding: 10px;
+  }
+  
+  .login-container {
+    max-width: 100%;
+  }
+  
+  #login-form {
+    padding: 20px;
+  }
+}
+
+/* Style pour le toggle password */
+.password-toggle {
+  position: absolute;
+  right: 15px;
+  top: 50%;
+  transform: translateY(-50%);
+  cursor: pointer;
+  color: #777;
+  transition: var(--transition);
+}
+
+.password-toggle:hover {
+  color: var(--primary-color);
+}
